@@ -26,4 +26,5 @@ Uses [Vite](https://vitejs.dev/), [Vitest](https://vitest.dev/), and [React Test
 - `npm run dev` to start dev server
 - `npm run build` to build for production
 - Look at the counter example in `src/features/counter` to see how to use Redux Toolkit
+- Look at Contact and About to see how to use the stylesX CSS-in-JS library
 
